@@ -1,0 +1,4 @@
+File name '/Users/syedanabeehahaque/Documents/news_app/src/components/NewsCards/NewsCards.js' differs from already included file name '/Users/syedanabeehahaque/Documents/news_app/src/components/Newscards/newscards.js' only in casing.
+  The file is in the program because:
+    Root file specified for compilation
+    Imported via './components/NewsCards/NewsCards' from file '/Users/syedanabeehahaque/Documents/news_app/src/App.js'
